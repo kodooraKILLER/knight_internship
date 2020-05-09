@@ -1,0 +1,1 @@
+Note: All the files present in the archived folder are outdated and kept only for legacy purposes. Useful code and other information can be saught at the parent directory
