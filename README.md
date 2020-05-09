@@ -7,7 +7,7 @@ Welcome to kodooraKILLER's knight internship repository!
   
   Supervised learning is performed for this problem, and the model will be a Deep-Learning based Dense Artificial Neural Network.
 
-### For more details about the model, implementation and further works, please go through "knight internship-google docs" word file uploaded here.
+ For more details about the model, implementation and further works, please go through "knight internship-google docs" word file uploaded here.
 
-"...For a brighter tomorrow"
+###                                            "...for a brighter tomorrow!"
 
