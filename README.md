@@ -9,9 +9,9 @@ Welcome to kodooraKILLER's knight internship repository!
 
  For more details about the model, implementation and further works, please go through "knight internship-google docs" PDF file uploaded here.
 
-NOTEBOOK: layman_notebook.ipynb
-DOCUMENTATION: knight internship-google docs.pdf
-TEST DATA CSV FILE WITH VARIETY COLUMN ADDED (ie, submitted csv file): answer.csv
+* NOTEBOOK: layman_notebook.ipynb
+* DOCUMENTATION: knight internship-google docs.pdf
+* TEST DATA CSV FILE WITH VARIETY COLUMN ADDED (ie, submitted csv file): answer.csv
 
 *Marching towards a brighter tomorrow!*
 
