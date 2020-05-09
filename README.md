@@ -9,5 +9,5 @@ Welcome to kodooraKILLER's knight internship repository!
 
  For more details about the model, implementation and further works, please go through "knight internship-google docs" word file uploaded here.
 
-###                                            "...for a brighter tomorrow!"
-
+Marching towards a brighter tomorrow!
+kodooraKILLER
