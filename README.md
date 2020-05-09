@@ -6,6 +6,8 @@ Welcome to kodooraKILLER's knight internship repository!
   The problem statement involves predicting the category of wine based on the details provided, such as review, price, product, etc. 2 datasets, namely test and train, are provided to us.
   
   Supervised learning is performed for this problem, and the model will be a Deep-Learning based Dense Artificial Neural Network.
-  
-##Preprocessing
-  The review is taken as the sole predictor for the problem, and hence it is converted to a numpy tensor that says the presence/absence of the topmost frequently used words.
+
+### For more details about the model, implementation and further works, please go through "knight internship-google docs" word file uploaded here.
+
+"...For a brighter tomorrow"
+
