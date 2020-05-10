@@ -12,6 +12,7 @@ Welcome to kodooraKILLER's knight internship repository!
 * NOTEBOOK: layman_notebook.ipynb
 * DOCUMENTATION: knight internship-google docs.pdf
 * TEST DATA CSV FILE WITH VARIETY COLUMN ADDED (ie, submitted csv file): answer.csv
+* SUBMIT ZIP FOLDER: The essential contents of the task, which includes the above listed components, is zipped into a folder for submission and evaluation.
 
 *Marching towards a brighter tomorrow!*
 
