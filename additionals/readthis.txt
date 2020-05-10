@@ -1,0 +1,4 @@
+This folder contains additional files relating to the task, such as:
+1. Data Visualisation Graphs
+2. Train and Test CSV files
+and so on
